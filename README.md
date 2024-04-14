@@ -1,6 +1,6 @@
 # Mesh2SDF-MP
 
-Most copy from mesh2sdf project, and use python `multiprocessing` for acceleration.
+Most contents copied from mesh2sdf project, and use python `multiprocessing` for acceleration.
 
 -----
 
