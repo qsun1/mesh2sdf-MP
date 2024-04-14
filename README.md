@@ -1,4 +1,8 @@
-# Mesh2SDF
+# Mesh2SDF-MP
+
+Most copy from mesh2sdf project, and use python `multiprocessing` for acceleration.
+
+-----
 
 [![Downloads](https://static.pepy.tech/badge/mesh2sdf)](https://pepy.tech/project/mesh2sdf)
 [![PyPI](https://img.shields.io/pypi/v/mesh2sdf)](https://pypi.org/project/mesh2sdf/)
